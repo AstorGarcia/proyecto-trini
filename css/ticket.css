@@ -1,0 +1,33 @@
+*{
+  padding: 0px;
+  margin:0px;
+}
+
+.divdebotones{
+  padding: 20px;
+  height: 50px;
+  width: 500px;
+}
+
+#Horarios>button{
+  margin-bottom: -1.3px;
+  margin-left: -4.5px;
+  border-radius: 0px;
+}
+
+#Horarios{
+  padding: 20px;
+  margin: 0px;
+  height: 100px;
+  width: 500px;
+
+}
+
+#Ticket{
+  margin:20px;
+  padding: 20px;
+  width: 500px;
+  height: 700px;
+  border-style: ridge;
+  border-color: black;
+}
